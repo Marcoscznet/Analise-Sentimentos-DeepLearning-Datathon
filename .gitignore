@@ -1,0 +1,5 @@
+*.csv
+*.zip
+*.rar
+# Se o seu modelo for maior que 100MB, coloque o nome dele aqui também
+resultado_datathon.csv
