@@ -25,7 +25,7 @@ Através da análise de **Bigrams** nas predições negativas, o modelo isolou t
 * `models/`: Modelo serializado `.keras` e Tokenizer `.pkl` para uso em produção.
 * `data_sample/`: Amostra representativa para testes rápidos.
 *  Base de dados: https://cfpb.github.io/api/ccdb/index.html.
-> **⚠️ Nota sobre os Dados:** O dataset completo possui aproximadamente **8 GB** e, por questões de limite de armazenamento do GitHub, não está incluso diretamente neste repositório. 
+> **⚠️ Nota sobre os Dados:** O dataset completo possui aproximadamente **8 GB** e, por questões de limite de armazenamento do GitHub, não está incluso diretamente neste repositório. Para reprodução dos resultados e testes, disponibilizamos um arquivo data_sample_demo.csv com uma amostra representativa. 
 
 ## 🚀 Como Executar
 1. Instale as dependências: `pip install tensorflow pandas scikit-learn matplotlib seaborn wordcloud joblib pandarallel`
