@@ -24,7 +24,7 @@ Através da análise de **Bigrams** nas predições negativas, o modelo isolou t
 * `notebooks/`: Scripts detalhando desde a limpeza até o treinamento da LSTM.
 * `models/`: Modelo serializado `.keras` e Tokenizer `.pkl` para uso em produção.
 * `data_sample/`: Amostra representativa para testes rápidos.
-
+*  Base de dados: https://cfpb.github.io/api/ccdb/index.html.
 > **⚠️ Nota sobre os Dados:** O dataset completo possui aproximadamente **8 GB** e, por questões de limite de armazenamento do GitHub, não está incluso diretamente neste repositório. 
 
 ## 🚀 Como Executar
